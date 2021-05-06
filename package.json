@@ -1,0 +1,17 @@
+{
+  "name": "design-patern-factory",
+  "version": "0.0.1",
+  "description": "Factory Design Pattern Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "design",
+    "patern",
+    "factory"
+  ],
+  "author": "Alexandre Kaimer",
+  "license": "ISC",
+  "type": "module"
+}
