@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Factory Design Pattern Test",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "test"
   },
