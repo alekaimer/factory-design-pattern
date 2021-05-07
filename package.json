@@ -5,7 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "test"
+    "test": "jest",
+    "dev": "node index.js"
   },
   "keywords": [
     "design",
@@ -14,5 +15,7 @@
   ],
   "author": "Alexandre Kaimer",
   "license": "ISC",
-  "type": "module"
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
